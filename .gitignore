@@ -1,0 +1,6 @@
+*.fa
+*.fasta
+
+.snakemake/
+
+030.output/
